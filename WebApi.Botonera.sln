@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.Botonera", "WebApi.Botonera\WebApi.Botonera.csproj", "{8097456A-54D5-44A0-807A-D6AD0A3383B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8097456A-54D5-44A0-807A-D6AD0A3383B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8097456A-54D5-44A0-807A-D6AD0A3383B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8097456A-54D5-44A0-807A-D6AD0A3383B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8097456A-54D5-44A0-807A-D6AD0A3383B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91C16950-FE9A-47E1-8E00-FB282EA268FA}
+	EndGlobalSection
+EndGlobal
